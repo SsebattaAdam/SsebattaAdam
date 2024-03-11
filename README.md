@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssebattaadam&label=Profile%20views&color=0e75b6&style=flat" alt="ssebattaadam" /> </p>
 
-- 🌱 I’m currently learning kotlin and jetpak compose **Flutter**
+- 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SsebattaAdam](https://github.com/SsebattaAdam)
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@adamoscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adamoscar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ssebatta adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssebatta adam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ssebatta adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssebatta adam" height="30" width="40" />https://www.linkedin.com/in/ssebatta-adam-506359254/</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
