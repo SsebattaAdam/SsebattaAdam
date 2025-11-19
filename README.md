@@ -1,79 +1,105 @@
+<!-- HEADER SECTION -->
 <div align="center">
 
-# 👋 Hi, We are Ssebatta Adam  
-### Mobile App & Full-Stack Developer  
-**React Native · Flutter · Kotlin · Swift · Node.js · Python**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ssebatta%20Adam&fontAlignY=40&color=gradient&fontSize=45" />
+
+### **Mobile App & Full-Stack Developer**
+**React Native • Flutter • Kotlin • Swift • Node.js • Python**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ssebattaadam&label=Profile%20views&color=0e75b6&style=flat" />
+<a href="mailto:adamssebatta@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/SsebattaAdam">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/ssebatta-adam-506359254/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Us
-Passionate about building fast, scalable and user-friendly mobile & backend systems.  
-We focus on:
+<!-- ABOUT SECTION -->
+## 👨‍💻 About Me  
+I am a mobile and backend developer focused on building fast, modern and reliable software.  
+I design & develop production-ready apps using:
 
-✨ Cross-platform mobile apps  
-✨ Native Android (Kotlin) & iOS (Swift)  
-✨ Backend APIs with Node.js & Python  
+- **React Native & Flutter** for cross-platform apps  
+- **Kotlin & Swift** for native mobile  
+- **Node.js & Python** for backend APIs  
+- Clean UI/UX using **Figma**
 
-**📂 Projects:** https://github.com/SsebattaAdam  
-**📧 Email:** adamssebatta@gmail.com  
-
----
-
-## 🌍 Connect With Us  
-<p align="center">
-  <a href="https://twitter.com/adamoscar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ssebatta-adam-506359254/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-</p>
+I love turning ideas into real, polished, working products.
 
 ---
 
-## 🛠️ Technologies We Use  
+<!-- SKILLS SECTION -->
+## 🚀 My Tech Stack  
 
-### 📱 Mobile Development  
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45"/>
-  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
-</p>
+### **📱 Mobile Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift,androidstudio" height="60" />
+</div>
 
-### 🖥️ Backend  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45"/>
-</p>
+### **🖥 Backend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,express" height="60" />
+</div>
 
-### ⚙️ Tools  
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-</p>
+### **🛠 Tools & Others**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,figma,git,postman,docker" height="60" />
+</div>
 
 ---
 
+<!-- PROJECT SECTION -->
+## 🌟 Featured Projects  
+<div align="center">
+
+### **📱 Mobile Apps**
+| Project | Description |
+|--------|-------------|
+| **Cross-Platform App** | Built with React Native + Firebase backend |
+| **Flutter Shopping App** | Complete UI/UX + state management |
+| **Kotlin Native Android App** | Fast, secure authentication + API integration |
+
+<br/>
+
+### **🖥 Backend Systems**
+| Project | Description |
+|--------|-------------|
+| **Node.js Authentication API** | JWT auth, role management |
+| **Python Automation Tool** | Automated workflows + data processing |
+| **Django REST API** | Scalable backend with PostgreSQL |
+
+</div>
+
+---
+
+<!-- STATS SECTION -->
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssebattaadam&show_icons=true&layout=compact" height="150" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssebattaadam&show_icons=true" height="150" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssebattaadam" height="150" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssebattaadam&theme=tokyonight&hide_border=true" height="170"/>
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ssebattaadam&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssebattaadam&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </div>
